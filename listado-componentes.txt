@@ -1,0 +1,9 @@
+#LISTA DE COMPONENTES
+
+- Layout
+	Header
+	SideNav
+		Categories->Skeleton
+	Main Content
+		MearlCard->Skeleton
+- Modal->Skeleton
