@@ -37,5 +37,5 @@ export default function useHttpData<T>(url:string){
           controller.abort();
         }
       },[]);
-      return {loading,data};
+      return { loading, data, setData,setLoading};
 }
